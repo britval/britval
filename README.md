@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Britney Becker</h1>
+<h1 align="center">Hi there 👋, I'm Britney Valoy</h1>
 <h3 align="center">Passionate Data Scientist | Panama 🇵🇦</h3>
 
 - 🔭 Currently diving into **Correlating Particulate Matter with Lung Cancer**
@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact: **I believe I'm funny**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=jolly&show_icons=true)
+
+<a href="https://dewith.co/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=britval&show_icons=true&hide_title=true&hide_border=true&theme=jolly" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britval&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=jolly" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
