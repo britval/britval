@@ -18,7 +18,7 @@
 - ⚡ Fun fact: **I believe I'm funny**
 
 
-<a href="https://dewith.co/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=britval&show_icons=true&hide_title=true&hide_border=true&theme=jolly" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britval&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=jolly" /></a>
+<a href="https://dewith.co/"><img height="149px" src="https://github-readme-stats.vercel.app/api?username=britval&show_icons=true&hide_title=true&hide_border=true&theme=jolly" /><img height="149px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britval&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=jolly"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
