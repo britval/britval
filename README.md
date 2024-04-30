@@ -11,7 +11,7 @@
 
 - 💬 Happy to discuss **Scientific Projects and Insights**
 
-- 📫 Reach me at **bbecker16@gmail.com**
+- 📫 Reach me at **----@gmail.com**
 
 - 📄 Explore my experiences [here](resume link)
 
