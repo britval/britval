@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I believe I'm funny**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=jolly&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
