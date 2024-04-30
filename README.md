@@ -1,4 +1,4 @@
-<h1 align="center"> 👋Hi  I'm Brit 👩🏻‍💻 </h1>
+<h1 align="center">Hi 👋, I'm Brit</h1>
 <h3 align="center">A passionate Data Scientist from Panama</h3>
 
 - 🔭 I’m currently working on **Correlation of particule matter with lung cancer**
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **AI, Data Science projects**
 
 - 🤝 I’m looking for help with **Machine Learning**
-
-- 👩🏻‍🎓 Studied Software Engineering at the Technological University of Panama , Panama
 
 - 💬 Ask me about **Scientific projects**
 
@@ -21,7 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/britney-becker-steam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/britney-becker-steam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/prueba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prueba" height="30" width="40" /></a>
+<a href="https://kaggle.com/prueba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prueba" height="30" width="40" /></a>
 <a href="https://instagram.com/britintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="britintech" height="30" width="40" /></a>
+<a href="https://dribbble.com/prueba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prueba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/prueba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prueba" height="30" width="40" /></a>
+<a href="https://discord.gg/prueba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prueba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
