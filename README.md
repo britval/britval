@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+## About Me
 
 - ⭐ Github entusiat ⭐ 
 - 📲 Data Scientist
@@ -60,8 +60,8 @@
 
 <p align="center">
 <a href="https://github.com/britval">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=britval&show_icons=true&theme=algolia&include_all_commits=true&count_private=False"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=britval&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=britval&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=False"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=britval&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
