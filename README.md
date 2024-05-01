@@ -61,7 +61,7 @@
 <p align="center">
 <a href="https://github.com/britval">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=britval&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=False"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=britval&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=britval&langs_count=10&layout=compact&theme=midnight-purple"/>
 </a>
 </p>
 
