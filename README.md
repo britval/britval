@@ -11,11 +11,9 @@
 
 - 💬 Happy to discuss **Scientific Projects and Insights**
 
-- 📫 Reach me at **----@gmail.com**
+- 📫 Reach me at **britneyintech@gmail.com**
 
 - 📄 Explore my experiences [here](resume link)
-
-- ⚡ Fun fact: **I believe I'm funny**
 
 
 <a href="https://dewith.co/"><img height="149px" src="https://github-readme-stats.vercel.app/api?username=britval&show_icons=true&hide_title=true&hide_border=true&theme=jolly" /><img height="149px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britval&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=jolly"/></a>
