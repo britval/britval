@@ -1,22 +1,69 @@
-<h1 align="center">Hi there 👋, I'm Britney Valoy</h1>
-<h3 align="center">Passionate Data Scientist | Panama 🇵🇦</h3>
+<div align="center">
+<h1 align="center">Hi there 👋, I'm <a href="www.linkedin.com/in/britney-becker-steam">Britney Valoy</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/1mbiKvf.png">
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
+## Sobre mi
+
+- ⭐ Github entusiat ⭐ 
+- 📲 Data Scientist
 - 🔭 Currently diving into **Correlating Particulate Matter with Lung Cancer**
-
-- 🌱 Always learning about **Machine Learning, Algorithms, and Data Structures**
-
-- 👯 Open to collaborate on **AI and Data Science projects**
-
-- 🤝 Seeking guidance in **Machine Learning advancements**
-
-- 💬 Happy to discuss **Scientific Projects and Insights**
-
 - 📫 Reach me at **britneyintech@gmail.com**
-
 - 📄 Explore my experiences [here](https://github.com/britval/britval/blob/main/CV/CV_BRITNEY_GITHUB.pdf)
+<br>
 
+## Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
 
-<a href="https://britval.co/"><img height="149px" width="400px" src="https://github-readme-stats.vercel.app/api?username=britval&show_icons=true&hide_title=true&bg_color=e1dbe7&hide_border=true&ring_color=6028a8&theme=graywhite" /><img height="149px" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britval&show_icons=true&layout=compact&langs_count=6&hide_title=true&bg_color=e1dbe7&hide_border=true&theme=graywhite"/></a>
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/britval">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=britval&show_icons=true&theme=algolia&include_all_commits=true&count_private=False"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=britval&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
