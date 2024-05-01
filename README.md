@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **britneyintech@gmail.com**
 
-- 📄 Explore my experiences [here](resume link)
+- 📄 Explore my experiences [here](https://github.com/britval/britval/blob/main/CV/CV_BRITNEY_GITHUB.pdf)
 
 
 <a href="https://britval.co/"><img height="149px" src="https://github-readme-stats.vercel.app/api?username=britval&show_icons=true&hide_title=true&bg_color=e1dbe7&hide_border=true&ring_color=6028a8&theme=graywhite" /><img height="149px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britval&show_icons=true&layout=compact&langs_count=6&hide_title=true&bg_color=e1dbe7&hide_border=true&theme=graywhite"/></a>
