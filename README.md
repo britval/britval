@@ -7,7 +7,6 @@
 - ⭐ Github entusiat ⭐ 
 - 📲 Data Scientist
 - 🔭 Currently diving into **Correlating Particulate Matter with Lung Cancer**
-- 📫 Reach me at **britneyintech@gmail.com**
 - 📄 Explore my experiences [here](https://github.com/britval/britval/blob/main/CV/CV_BRITNEY_GITHUB.pdf)
 <br>
 
