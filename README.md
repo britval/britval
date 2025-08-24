@@ -19,14 +19,14 @@
 <div align="center">
 <a href="https://youtu.be/WK6B2GzQFak" target="_blank"><img src="https://bieniwallet.com/principal/wp-content/uploads/2025/08/Banner-Blog-Agencia-De-Marketing-Y-Publicidad-Moderno-Negro-.png" width="400" alt="Bia chatbot de inteligencia artifical en Bieni"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<a href="https://youtu.be/fj5IIl7eBpM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p><strong>BIA – Bieni Intelligent Assistant</strong> es un asistente clínico desarrollado en <strong>Python, Flask y LLMs</strong>, 
+capaz de apoyar a doctores y pacientes en el registro de <strong>mediciones médicas, alergias, contactos de emergencia y médicos</strong>.  
+Integra <strong>Herramientas en nube, on-premise e Inteligencia artifical</strong> y con un diseño modular de herramientas (“Tools”).  
+Un paso importante hacia la salud digital en Panamá.</p>
 </div>
                                                                                       
 </td>       
@@ -83,6 +83,4 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
 </p>
