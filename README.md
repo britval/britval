@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there 👋, I'm <a href="www.linkedin.com/in/britney-becker-steam">Britney Valoy</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/1mbiKvf.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
@@ -20,9 +19,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Bia chatbot de IA en Bieni</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://youtu.be/WK6B2GzQFak" target="_blank"><img src="https://bieniwallet.com/principal/wp-content/uploads/2025/08/Banner-Blog-Agencia-De-Marketing-Y-Publicidad-Moderno-Negro-.png" width="400" alt="Bia chatbot de inteligencia artifical en Bieni"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
