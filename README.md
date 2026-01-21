@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there 👋, I'm <a href="www.linkedin.com/in/britney-becker-steam">Britney Valoy</a> 👋</h1>
+<h1 align="center">Hi there 👋, I'm <a href="www.linkedin.com/in/britneyintech">Britney Valoy</a> 👋</h1>
 </div>
 
 ## About Me
