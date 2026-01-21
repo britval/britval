@@ -1,6 +1,7 @@
-<div align="center">
-<h1 align="center">Hi there 👋, I'm <a href="www.linkedin.com/in/britneyintech">Britney Valoy</a> 👋</h1>
-</div>
+<h1 align="center">
+  Hi there 👋, I'm <a href="https://www.linkedin.com/in/britneyintech">Britney Valoy</a>
+</h1>
+
 
 ## About Me
 
